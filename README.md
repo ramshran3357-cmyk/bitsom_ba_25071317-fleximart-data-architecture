@@ -1,1 +1,0 @@
-# bitsom_ba_25071317-fleximart-data-architecture
